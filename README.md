@@ -1,4 +1,4 @@
-# Javascript array Methods (Map, Reduce..-
+# Essential Javascript  Methods (Map, Reduce..)
 
 ```shell
 These methods iterate over an existing object or array without using a loop
